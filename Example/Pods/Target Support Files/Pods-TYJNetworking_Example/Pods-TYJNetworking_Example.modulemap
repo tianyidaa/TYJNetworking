@@ -1,0 +1,6 @@
+framework module Pods_TYJNetworking_Example {
+  umbrella header "Pods-TYJNetworking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

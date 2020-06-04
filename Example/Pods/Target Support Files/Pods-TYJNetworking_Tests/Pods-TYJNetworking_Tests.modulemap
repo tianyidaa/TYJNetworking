@@ -1,0 +1,6 @@
+framework module Pods_TYJNetworking_Tests {
+  umbrella header "Pods-TYJNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

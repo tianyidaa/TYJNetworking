@@ -1,0 +1,6 @@
+framework module TYJNetworking {
+  umbrella header "TYJNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
